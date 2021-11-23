@@ -6,8 +6,7 @@
   /*grid-template-rows: 152px 460px;*/
   grid-template-areas:
   "title website"
-  "image paragraphs"
-  ;
+  "image paragraphs";
   grid-column-gap: 40px;
   grid-row-gap: 48px;
 }
@@ -34,8 +33,7 @@
      "title"
      "website"
      "image"
-     "paragraphs"
-     ;
+     "paragraphs";
      grid-row-gap: 32px;
    }
 
