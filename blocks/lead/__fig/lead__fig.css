@@ -1,0 +1,21 @@
+.lead__fig {
+  margin: 64px auto 0;
+}
+
+  @media screen and (max-width: 1120px) {
+    .lead__fig {
+      margin-top: 56px;
+    }
+  }
+
+  @media screen and (max-width: 960px) {
+    .lead__fig {
+      margin: 56px 0;
+    }
+  }
+  @media screen and (max-width: 540px) {
+    .lead__fig {
+      margin: 40px 0;
+    }
+  }
+

@@ -1,0 +1,21 @@
+.footer__link {
+  margin-right: 18px;
+  width: 50px;
+  height: 18px;
+  text-decoration: none;
+  color: white;
+}
+
+.footer__link:hover {
+  cursor: url('../../../images/cursor-pointer-min.svg'), pointer;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 540px) {
+  .footer__link {
+    margin-bottom: 32px;
+  }
+  .footer__link:last-of-type {
+    margin-bottom: 0;
+  }
+}

@@ -1,0 +1,16 @@
+.header__lang-link {
+  width: 30px;
+  height: 28px;
+  text-decoration: none;
+  margin-right: 18px;
+}
+
+.header__lang-link:last-of-type {
+  margin-right: 0;
+}
+@media screen and (max-width: 540px) {
+  .header__lang-link {
+    width: 22px;
+    height: 20px;
+  }
+}
