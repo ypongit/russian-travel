@@ -1,6 +1,5 @@
 .place__title {
   margin: 0;
-  /*width: 460px;*/
   grid-area: title;
   font-weight: 900;
   font-size: 72px;
@@ -27,6 +26,9 @@
       /*max-width: 288px;*/
       font-size: 32px;
       line-height: 35px;
+      min-width: 288px;
+      margin-left: 16px;
+
    }
 
  }

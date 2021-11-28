@@ -4,11 +4,6 @@
   font-size: 18px;
   line-height: 22px;
   /* identical to box height, or 122% */
-
   text-decoration-line: underline;
-
   color: #FFF;
-}
-.place__link:hover {
-  cursor: url('../../../images/cursor-pointer-min.svg'), pointer;
 }
