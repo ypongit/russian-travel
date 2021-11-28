@@ -35,7 +35,7 @@
 */
 @media screen and (max-width: 540px) {
   .places {
-    grid-template-rows: 1042px 1016px 990px 965px 965px ;
+    grid-template-rows: 1042px 1016px 990px 965px 965px;
     /*grid-template-rows: repeat(5, max-content);*/
     grid-row-gap: 50px;
   }
