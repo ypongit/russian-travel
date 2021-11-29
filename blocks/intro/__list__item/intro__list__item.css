@@ -1,0 +1,20 @@
+.intro__list__item:nth-child(1)::after {
+  content: "11";
+  font-weight: normal;
+}
+.intro__list__item:nth-child(2)::after {
+  content: "12";
+  font-weight: normal;
+}
+.intro__list__item:nth-child(3)::after {
+  content: "16";
+  font-weight: normal;
+}
+.intro__list__item:nth-child(4)::after {
+  content: "105";
+  font-weight: normal;
+}
+.intro__list__item:nth-child(5)::after {
+  content: "241";
+  font-weight: normal;
+}
