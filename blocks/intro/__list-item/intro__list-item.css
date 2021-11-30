@@ -1,3 +1,4 @@
+/*
 .intro__list-item:nth-child(1)::after {
   content: "11";
   font-weight: normal;
@@ -18,3 +19,4 @@
   content: "241";
   font-weight: normal;
 }
+*/

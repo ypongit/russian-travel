@@ -8,6 +8,11 @@
   color: #FFF;
 }
 
+.header__lang-link:hover {
+  opacity: 0.8;
+  cursor: url('../../../images/cursor-pointer-min.svg'), pointer;
+}
+
 .header__lang-link:last-of-type {
   margin-right: 0;
 }
